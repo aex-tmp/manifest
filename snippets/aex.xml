@@ -72,4 +72,7 @@
 
   <!-- device tracking -->
   <project path="official_devices" name="official_devices" remote="aex" revision="main" />
+
+  <!-- thread templates and documents -->
+  <project path="Documentation_and_thread-template" name="Documentation_and_thread-template" remote="aex" />
 </manifest>
