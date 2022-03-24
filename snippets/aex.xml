@@ -99,8 +99,8 @@
   <project path="vendor/support" name="platform_vendor_support" remote="aex" />
   <project path="vendor/qcom/opensource/power" name="platform_vendor_qcom_opensource_power" groups="qcom,pdk-qcom" remote="aex"  />
 
-  <!-- GApps
-  <project path="vendor/google" name="platform_vendor_gapps" clone-depth="1" remote="aex-lab" /> -->
+  <!-- GApps -->
+  <project path="vendor/google" name="platform_vendor_google" clone-depth="1" remote="aex-lab" />
 
   <!-- AOSP -->
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" revision="refs/tags/android-11.0.0_r46" />
